@@ -1,1 +1,0 @@
-import React from 'react'; import ReactDOM from 'react-dom'; ReactDOM.render(<div>Hello RDPL</div>, document.getElementById('root'));
